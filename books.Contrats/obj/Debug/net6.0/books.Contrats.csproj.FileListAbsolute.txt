@@ -1,0 +1,12 @@
+/mnt/c/Users/Utilisateur/Documents/aspnet/books.Contrats/bin/Debug/net6.0/books.Contrats.deps.json
+/mnt/c/Users/Utilisateur/Documents/aspnet/books.Contrats/bin/Debug/net6.0/books.Contrats.dll
+/mnt/c/Users/Utilisateur/Documents/aspnet/books.Contrats/bin/Debug/net6.0/ref/books.Contrats.dll
+/mnt/c/Users/Utilisateur/Documents/aspnet/books.Contrats/bin/Debug/net6.0/books.Contrats.pdb
+/mnt/c/Users/Utilisateur/Documents/aspnet/books.Contrats/obj/Debug/net6.0/books.Contrats.csproj.AssemblyReference.cache
+/mnt/c/Users/Utilisateur/Documents/aspnet/books.Contrats/obj/Debug/net6.0/books.Contrats.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Utilisateur/Documents/aspnet/books.Contrats/obj/Debug/net6.0/books.Contrats.AssemblyInfoInputs.cache
+/mnt/c/Users/Utilisateur/Documents/aspnet/books.Contrats/obj/Debug/net6.0/books.Contrats.AssemblyInfo.cs
+/mnt/c/Users/Utilisateur/Documents/aspnet/books.Contrats/obj/Debug/net6.0/books.Contrats.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Utilisateur/Documents/aspnet/books.Contrats/obj/Debug/net6.0/books.Contrats.dll
+/mnt/c/Users/Utilisateur/Documents/aspnet/books.Contrats/obj/Debug/net6.0/ref/books.Contrats.dll
+/mnt/c/Users/Utilisateur/Documents/aspnet/books.Contrats/obj/Debug/net6.0/books.Contrats.pdb
